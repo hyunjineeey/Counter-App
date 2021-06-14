@@ -1,3 +1,1 @@
 # Counter-App
-
-In progress...
